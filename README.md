@@ -7,6 +7,6 @@ nohup python -u ./checkGit.py &
 
 This will execute the script in the background and save the outpu in the nohup file.
 
-#To end the process:
-1.) ps ax | grep checkGit.py
+#To end the process: <br />
+1.) ps ax | grep checkGit.py <br />
 2.) kill PID
